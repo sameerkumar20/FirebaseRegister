@@ -2,6 +2,7 @@ package com.sameer.firebaseregister
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.view.View
 import android.view.Window
 import android.view.WindowManager
 import android.widget.Button
@@ -30,7 +31,7 @@ class MainActivity : AppCompatActivity() {
           email = findViewById(R.id.id_email)
           password = findViewById(R.id.id_password)
           register = findViewById(R.id.id_register)
-//          prograssBar = findViewById(R.id.id_prograss)
+          prograssBar = findViewById(R.id.progressBar)
 
           register.setOnClickListener {
               SignUpHere()
@@ -40,6 +41,8 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun SignUpHere(){
+
+        prograssBar.visibility = View.VISIBLE
 
         val mEmail : String = email.text.toString()
         val mPassword : String = password.text.toString()
@@ -57,6 +60,6 @@ class MainActivity : AppCompatActivity() {
                     Toast.makeText( applicationContext,"Fail", Toast.LENGTH_SHORT).show()
                 }
             }
-
+        prograssBar.visibility = View.GONE
     }
 }
