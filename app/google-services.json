@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "613849491077",
+    "project_id": "auth-ff725",
+    "storage_bucket": "auth-ff725.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613849491077:android:b51e3b7ea9794585656bec",
+        "android_client_info": {
+          "package_name": "com.sameer.firebaseregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613849491077-pdskr22co5jvs422qa2f4g4ghksiqah9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5jvHXce4CTRZDOizEfMlN9wydurq58uc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613849491077-pdskr22co5jvs422qa2f4g4ghksiqah9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
