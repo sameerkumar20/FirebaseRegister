@@ -4,9 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/ASUS/Desktop/New folder/FirebaseRegister/app/src/main/res/drawable/bottom_bg.xml" value="0.2703125" />
+        <entry key="..\:/Users/ASUS/Desktop/New folder/FirebaseRegister/app/src/main/res/drawable/image_bg.xml" value="0.2703125" />
         <entry key="..\:/Users/ASUS/Desktop/New folder/FirebaseRegister/app/src/main/res/drawable/input_bg.xml" value="0.2703125" />
         <entry key="..\:/Users/ASUS/Desktop/New folder/FirebaseRegister/app/src/main/res/drawable/upper_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/ASUS/Desktop/New folder/FirebaseRegister/app/src/main/res/layout/activity_log_in.xml" value="0.15217391304347827" />
         <entry key="..\:/Users/ASUS/Desktop/New folder/FirebaseRegister/app/src/main/res/layout/activity_main.xml" value="0.16621376811594202" />
+        <entry key="..\:/Users/ASUS/Desktop/New folder/FirebaseRegister/app/src/main/res/layout/activity_profile.xml" value="0.15942028985507245" />
       </map>
     </option>
   </component>
